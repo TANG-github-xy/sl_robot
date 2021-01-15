@@ -30,3 +30,4 @@
   roslaunch mbot_teleop mbot_teleop.launch (PC端)
 
 注意：ros工程文件必须在全英文目录下才能运行成功
+删除src目录下的CMmakeLists.txt,再使用caktin_make,编译。
