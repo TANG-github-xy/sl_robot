@@ -28,3 +28,5 @@
   roslaunch mbot_bringup mbot_with_laser.launch(机器人端)
   roslaunch mbot_navigation gmapping_demo.launch(PC端)
   roslaunch mbot_teleop mbot_teleop.launch (PC端)
+
+注意：ros工程文件必须在全英文目录下才能运行成功
